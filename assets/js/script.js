@@ -38,7 +38,7 @@ document.querySelector('#grade6').addEventListener('click', function() {
     window.open('https://andrefqms.github.io/Weather-app/', '_blank'); // substitua o URL pelo que você deseja abrir
   });
   document.querySelector('#grade11').addEventListener('click', function() {
-    window.open('https://github.com/andrefqms/news-app', '_blank'); // substitua o URL pelo que você deseja abrir
+    window.open('https://lookerstudio.google.com/u/0/reporting/b8a00a46-3b82-4845-97cc-a49a39760ce8/page/jxHAE', '_blank'); // substitua o URL pelo que você deseja abrir
   });
 
 
