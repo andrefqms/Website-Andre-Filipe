@@ -29,7 +29,7 @@ document.querySelector('#grade6').addEventListener('click', function() {
     window.open('https://github.com/andrefqms/euro2024', '_blank'); // substitua o URL pelo que você deseja abrir
   });
   document.querySelector('#grade8').addEventListener('click', function() {
-    window.open('https://github.com/andrefqms/Amazon-Delivery-Dataset', '_blank'); // substitua o URL pelo que você deseja abrir
+    window.open('https://medium.com/@andre.soares_79642/otimiza%C3%A7%C3%A3o-da-efici%C3%AAncia-log%C3%ADstica-um-estudo-de-caso-dos-dados-de-entrega-da-amazon-4beadd22f71a', '_blank'); // substitua o URL pelo que você deseja abrir
   });
   document.querySelector('#grade9').addEventListener('click', function() {
     window.open('https://andrefqms.github.io/Movies-App/', '_blank'); // substitua o URL pelo que você deseja abrir
