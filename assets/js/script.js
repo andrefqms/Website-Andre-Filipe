@@ -74,7 +74,7 @@ const gradeLinks = {
   grade8:  'https://medium.com/@andre.soares_79642/otimiza%C3%A7%C3%A3o-da-efici%C3%AAncia-log%C3%ADstica-um-estudo-de-caso-dos-dados-de-entrega-da-amazon-4beadd22f71a',
   grade9:  'https://andrefqms.github.io/Movies-App/',
   grade10: 'https://andrefqms.github.io/Weather-app/',
-  grade11: 'https://lookerstudio.google.com/u/0/reporting/b8a00a46-3b82-4845-97cc-a49a39760ce8/page/jxHAE'
+  grade11: 'https://github.com/andrefqms/pavimentos-brasil-icm'
 };
 
 Object.entries(gradeLinks).forEach(([id, url]) => {
